@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool:
-  name: 'Alaska'
+pool: newagent
 
 steps:
 - task: Maven@4
